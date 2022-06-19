@@ -19,4 +19,9 @@ npm install
 Cara menjalankan :
 node server.js
 
+|Untuk Alasan Penggunaan Pattern ini|
+1. Karena menurut saya pattern ini nyaman untuk digunakan dan juga mengikuti standar MVC seperti aplikasi aplikasi yang ada sekarang.
+2. Kemudahan untuk penyesuaian scalabilitynya.
+3. Mudah untuk debug
+
 Terima Kasih~~
